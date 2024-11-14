@@ -1,22 +1,18 @@
 <div align="center">
-<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/gBY6uBGSH3wAAAAj/cat-bug.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">404 Not Found !</div>  
-  
+### <div align="center">Coding makes me happy every time… just kidding!</div>  
 
-- 🌐 Make it Work.  
-  
 
-- ☑️Make it Right.  
-  
-
-- ⚡Make it Fast.  
+<div align="center">
+  🌐 Make it Work | ☑️Make it Right | ⚡Make it Fast
+</div>  
   
 
 
-
+<!--
 ### Programming Languages  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
