@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Coding makes me happy every time… just kidding!</div>  
+### <div align="center">Coding makes me happy… just kidding!</div>  
 
 
 <div align="center">
